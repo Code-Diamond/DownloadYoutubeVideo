@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.csprojAssemblyReference.cache
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\DownloadYoutubeVideo.exe.config
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\DownloadYoutubeVideo.exe
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\DownloadYoutubeVideo.pdb
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\LtGt.dll
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\Sprache.dll
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\YoutubeExplode.dll
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\LtGt.xml
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\Sprache.xml
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\bin\Debug\YoutubeExplode.xml
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.csproj.CopyComplete
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.exe
+C:\Users\root\source\repos\DownloadYoutubeVideo\DownloadYoutubeVideo\obj\Debug\DownloadYoutubeVideo.pdb
